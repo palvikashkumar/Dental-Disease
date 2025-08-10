@@ -1,2 +1,2 @@
-# Dental-Disease detection and Classification in Radiograph Images Using Deep Learning Model in IEEE. 
-#Dental desiese detection 
+# Dental-Disease detection and Classification in Radiograph Images Using Deep Learning Model in IEEE International Conference 2023. 
+#Dental desiese detection ia an Artificial intelligence, particularly deep learning and computer vision, is increasingly being used to automate complex tasks in dental imaging, such as segmentation, object detection, and classification. These technologies can reduce manual labor and enhance diagnostic accuracy, enabling dentists to treat more patients efficiently. While broad-scale assessments like tooth counting show promising results, more detailed evaluations—such as determining the success of specific treatments like root canals—are still necessary. Comparing pre- and post-treatment radiographs helps clinicians assess both patient outcomes and the effectiveness of dental procedures.
